@@ -1,12 +1,17 @@
 - 👋 Hi, I’m @Dane-2pi
+
   Alternate profile, @DaneEvans, used mostly for mechanical keyboards. Notably the Sofle RGB, with a new custom board in the works. 
 - 👀 I’m interested in ...
+
   Climbing, Ultrarunning, mechanical keyboards
 - 🌱 I’m currently learning ...
+
   Whatever strikes my fancy
 - 💞️ I’m looking to collaborate on ...
+
   An open source LED Climbing wall, ala the Moon board, but without the price tag. 
 - 📫 How to reach me ...
+
   Smoke signals
 
 <!---
